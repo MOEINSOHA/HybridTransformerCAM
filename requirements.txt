@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+tensorflow
+opencv-python
+matplotlib
+numpy
+tqdm
