@@ -6,3 +6,5 @@ opencv-python
 matplotlib
 numpy
 tqdm
+torch.nn.functional
+tensorflow.keras
